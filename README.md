@@ -19,4 +19,5 @@
 3. Is attention consistent with attribution. 
 4. Constraining activation map  
 5. Generative CNN https://docs.google.com/presentation/d/1b0ilhvcSV44bCyj6OxkpCvQA12VrZ1FiO51GcQxvPWw/edit. 
+6. Image Synthesis with a Single (Robust) Classifier
 
