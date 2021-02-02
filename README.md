@@ -14,4 +14,9 @@
 10. Beyond Sparsity: Tree Regularization of Deep Models for Interpretability https://arxiv.org/pdf/1711.06178.pdf     
 
 ## more
-todo
+1. Network Dissection: Quantifying Interpretability of Deep Visual Representations http://netdissect.csail.mit.edu/. 
+2. Grad-CAM   
+3. Is attention consistent with attribution. 
+4. Constraining activation map  
+5. Generative CNN https://docs.google.com/presentation/d/1b0ilhvcSV44bCyj6OxkpCvQA12VrZ1FiO51GcQxvPWw/edit. 
+
